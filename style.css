@@ -7,6 +7,9 @@ body {
     font-family: 'Nunito', sans-serif;
     color: #3C403D;
 }
+main {
+    padding-bottom: 300px;
+}
 .wrapper {
     margin: 0 auto;
     width: 1000px;
