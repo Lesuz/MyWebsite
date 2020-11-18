@@ -6,6 +6,7 @@ body {
     background-color: #f0f0f0;
     font-family: 'Nunito', sans-serif;
     color: #3C403D;
+    overflow-x: hidden;
 }
 main {
     padding-bottom: 300px;
