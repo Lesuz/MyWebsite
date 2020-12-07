@@ -7,7 +7,7 @@ body {
     font-family: 'Nunito', sans-serif;
     color: #3C403D;
     overflow-x: hidden;
-    background-image: url("img/20121119_082758_Android.jpg");
+    background-image: url("img/backgroundpic.jpg");
     background-size: cover;
 }
 main {
@@ -197,6 +197,10 @@ h1,h2,h3,p{
 }
 /* More information on projects -pages*/
 
+.linktowebsite {
+    text-decoration: none;
+    color: #3C403D;
+}
 .descriptioncontent{
     background-color: rgb(255, 255, 255); ;
     border-radius: 10px;
